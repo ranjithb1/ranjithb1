@@ -61,9 +61,9 @@ I'm an **Electronics and Communication Engineering graduate from SVNIT Surat**, 
 
 <div align="center">
 
-## 🌐 &nbsp; THREE DOMAINS. ONE ENGINEERING MINDSET.
+<h2>🌐 THREE DOMAINS. ONE ENGINEERING MINDSET.</h2>
 
-*Hardware × Data × Intelligence*
+<p><i>Hardware × Data × Intelligence</i></p>
 
 </div>
 
