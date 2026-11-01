@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=205&color=timeGradient&section=header&text=RANJITH%20BOLLE&fontSize=58&fontColor=C0CAF5&fontAlignY=38&desc=ELECTRONICS%20%7C%20DATA%20%7C%20ARTIFICIAL%20INTELLIGENCE&descSize=16&descAlignY=60&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=205&color=gradient&customColorList=0,2,3,5,6,10,12,15,20,25,30&section=header&text=RANJITH%20BOLLE&fontSize=58&fontColor=C0CAF5&fontAlignY=38&desc=ELECTRONICS%20%7C%20DATA%20%7C%20ARTIFICIAL%20INTELLIGENCE&descSize=16&descAlignY=60&animation=twinkling"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2300&pause=650&color=7DCFFF&center=true&vCenter=true&width=950&height=55&lines=ECE+Graduate+%7C+SVNIT+Surat;VLSI+Design+%26+Verification;Data+Analytics+%26+Visualization;Artificial+Intelligence+%26+Machine+Learning;Engineering+Ideas+Across+Three+Domains" alt="Animated introduction"/>
 
