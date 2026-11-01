@@ -463,22 +463,6 @@ Explored GPT-based assistant development, generative AI concepts and prompt engi
 
 <div align="center">
 
-<h2>🌌 LET'S CONNECT</h2>
-
-**Ideas grow when knowledge is shared.**
-
-<br/>
-
-<a href="https://www.linkedin.com/in/ranjith0912">
-<img src="https://img.shields.io/badge/LinkedIn-LET'S_CONNECT-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ranjithb1">
-<img src="https://img.shields.io/badge/GitHub-VIEW_PROFILE-24283B?style=for-the-badge&logo=github&logoColor=C0CAF5"/>
-</a>
-
-<br/><br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=700&color=BB9AF7&center=true&vCenter=true&width=650&height=40&lines=STAY+CURIOUS+%E2%9A%A1;KEEP+EXPLORING+%F0%9F%9A%80;BUILD+SOMETHING+MEANINGFUL+%F0%9F%94%A5;INNOVATE+WITHOUT+LIMITS" alt="Animated closing message"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=115&color=timeGradient&section=footer&text=KEEP%20BUILDING&fontSize=24&fontColor=C0CAF5&animation=twinkling"/>
